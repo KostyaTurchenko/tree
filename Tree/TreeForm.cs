@@ -13,6 +13,7 @@ namespace TreeV
 {
     public partial class TreeForm : Form
     {
+        //27.	Создано некоторое оглавление с использованием разного количества отступов, или символов табуляции.Построить дерево-оглавление.
         public TreeForm()
         {
             InitializeComponent();
