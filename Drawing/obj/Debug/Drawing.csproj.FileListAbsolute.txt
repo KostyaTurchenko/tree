@@ -1,0 +1,9 @@
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\bin\Debug\Drawing.dll
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\bin\Debug\Drawing.pdb
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\bin\Debug\MyTree.dll
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\bin\Debug\MyTree.pdb
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\obj\Debug\Drawing.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\obj\Debug\Drawing.dll
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Tree\Drawing\obj\Debug\Drawing.pdb
